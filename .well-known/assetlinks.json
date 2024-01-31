@@ -1,0 +1,10 @@
+[
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.meeriad.sport5",
+    "sha256_cert_fingerprints":
+    ["FA:7C:F0:0A:99:AE:79:AD:EA:E3:1C:CB:13:74:5A:5B:94:A1:70:9D:CA:B1:1E:EC:9F:0C:90:32:E0:73:5D:C1"]
+  }
+}]
